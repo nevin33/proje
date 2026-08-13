@@ -1,0 +1,12 @@
+streamlit
+bitsandbytes
+accelerate
+pyngrok
+langchain-huggingface
+langchain-community
+langchain-text-splitters
+faiss-cpu
+transformers
+torch
+huggingface_hub
+numpy
