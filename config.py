@@ -16,7 +16,7 @@ from pathlib import Path
 # ---------------------------------------------------------------------------
 # Paths
 # ---------------------------------------------------------------------------
-BASE_DIR = "/kaggle/working/ai_projects"
+BASE_DIR = "/kaggle/working/proje"
 DOCS_DIR_DEFAULT = "/kaggle/input/cityguide"
 DB_PATH = f"{BASE_DIR}/vectorstore/db_faiss"
 FINGERPRINT_PATH = f"{BASE_DIR}/vectorstore/fingerprint.json"
